@@ -3,12 +3,11 @@ class Conta:
       self.titular = titular
       self.saldo = saldo
       self.senha = senha
-  #metodos
 
-# metodo saque
-def Sacar(self,valor):
-  if self.saldo >= valor:
-    self.saldo = self.saldo - valor
-else:
-  print("Vocẽ não em saldo , seu POBRE!")
+def sacar(self,valor):
+  while self.senha
+if self.senha == senha
+if self.saldo >= valor:
+  self.saldo -= valor
+  
 
