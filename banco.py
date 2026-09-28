@@ -9,5 +9,5 @@ def sacar(self,valor):
 if self.senha == senha
 if self.saldo >= valor:
   self.saldo -= valor
-  
+  print("Saque de {valor}
 
